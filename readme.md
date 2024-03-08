@@ -82,10 +82,9 @@ If you find this work useful, please consider citing it.
 }
 ``` -->
 
-<!-- ## ✏Model Checkpoints And Date Feature
-
-[Baidu Disk](https://pan.baidu.com/s/1CTcjMHVeG-8uo4HPWNNL9Q ) (pwd: 1234)
-- 2023.11.07 Update https://github.com/haihuangcode/CMG/issues/1 -->
+## ✏Model Checkpoints And Date Feature
+[DCID & Date Feature](https://pan.baidu.com/s/1CTcjMHVeG-8uo4HPWNNL9Q ) (pwd: 1234)
+[H-DCID](https://pan.baidu.com/s/1nQCQCxC3jhJrRGuELQ0fFQ?pwd=1234 ) (pwd: 1234)
 
 ## ✏Directory
 
