@@ -69,18 +69,25 @@ cd TOC_H-DCID/code/AVSBench_downstream/avs_scripts/avs_s4
 ./test.sh
 ``` -->
 
-<!-- ## 🎓Cite
+## 🎓Cite
 
 If you find this work useful, please consider citing it.
 
 ```
-@inproceedings{xia2023achieving,
+@article{xia2024achieving,
   title={Achieving Cross Modal Generalization with Multimodal Unified Representation},
   author={Xia, Yan and Huang, Hai and Zhu, Jieming and Zhao, Zhou},
-  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-  year={2023}
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
 }
-``` -->
+@article{huang2024unlocking,
+  title={Unlocking the Potential of Multimodal Unified Discrete Representation through Training-Free Codebook Optimization and Hierarchical Alignment},
+  author={Huang, Hai and Xia, Yan and Ji, Shengpeng and Wang, Shulei and Wang, Hanting and Zhu, Jieming and Dong, Zhenhua and Zhao, Zhou},
+  journal={arXiv preprint arXiv:2403.05168},
+  year={2024}
+}
+```
 
 ## ✏Model Checkpoints And Date Feature
 [DCID & Date Feature](https://pan.baidu.com/s/1CTcjMHVeG-8uo4HPWNNL9Q ) (pwd: 1234)
